@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/menumitra/static/css/main.75b2c2ae.css",
-    "main.js": "/menumitra/static/js/main.5d166f1a.js",
+    "main.js": "/menumitra/static/js/main.98bea487.js",
     "static/js/453.3f9507d7.chunk.js": "/menumitra/static/js/453.3f9507d7.chunk.js",
     "static/media/page-bg.jpg": "/menumitra/static/media/page-bg.62d443b0827c41447bb4.jpg",
     "static/media/MenuMItra Key Features.png": "/menumitra/static/media/MenuMItra Key Features.42ff4187e29b6f609f9d.png",
@@ -35,11 +35,11 @@
     "static/media/fa-v4compatibility.woff2": "/menumitra/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/menumitra/index.html",
     "main.75b2c2ae.css.map": "/menumitra/static/css/main.75b2c2ae.css.map",
-    "main.5d166f1a.js.map": "/menumitra/static/js/main.5d166f1a.js.map",
+    "main.98bea487.js.map": "/menumitra/static/js/main.98bea487.js.map",
     "453.3f9507d7.chunk.js.map": "/menumitra/static/js/453.3f9507d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75b2c2ae.css",
-    "static/js/main.5d166f1a.js"
+    "static/js/main.98bea487.js"
   ]
 }
