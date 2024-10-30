@@ -81,7 +81,9 @@ const HomeBody = () => {
         <div className="col-lg-4 col-md-6">
           <div className="single-box">
             <div className="box-icon">
-            <i class="fa-solid fa-hotel"></i>
+              <i>
+            <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/contactless-payment-4582179-3802931.png?f=webp" width="40" height="40" />
+            </i>
             </div>
             <h3>Contactless Order</h3>
             <p>
@@ -104,7 +106,9 @@ const HomeBody = () => {
         <div className="col-lg-4 col-md-6 icon-color">
           <div className="single-box">
             <div className="box-icon">
-            <i class="fa-solid fa-hotel"></i>
+            <i >
+              <img src="https://cdn-icons-png.flaticon.com/512/9805/9805578.png" width="40" height="40" />
+            </i>
             </div>
             <h3>Inventory Management</h3>
             <p>
@@ -125,7 +129,9 @@ const HomeBody = () => {
         <div className="col-lg-4 col-md-6 offset-md-3 offset-lg-0 icon-color">
           <div className="single-box">
             <div className="box-icon">
-            <i class="fa-solid fa-hotel"></i>
+            <i >
+              <img src="https://www.pikpng.com/pngl/m/378-3783388_staff-icon-png-people-symbol-no-background-clipart.png" width="40" height="40" alt="" />
+            </i>
             </div>
             <h3>Low Staff Cost</h3>
             <p>
@@ -167,9 +173,7 @@ const HomeBody = () => {
             <span>About Us</span>
             <h2>Benefits of Menumitra for Your Restaurant </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-              ipsum suspendisse ultrices gravida.
+            MenuMitra is a digital menu app enabling contactless ordering, real-time menu updates, and inventory management. Guests can customize orders, track status, and pay easily via multiple options. With promotion tools and feedback features, it enhances customer satisfaction, streamlines operations, and provides a modern dining experience for restaurants.
             </p>
             <div className="row">
               <div className="col-lg-6 col-sm-6">

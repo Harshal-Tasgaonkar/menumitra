@@ -40,11 +40,9 @@ const AboutBody = () => {
         <div className="col-lg-6">
           <div className="about-content">
             <span>About Us</span>
-            <h2>We Provide Fresh Food For Your Family</h2>
+            <h2>Benefits of Menumitra for Your Restaurant</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-              ipsum suspendisse ultrices gravida.
+            MenuMitra is a digital menu app enabling contactless ordering, real-time menu updates, and inventory management. Guests can customize orders, track status, and pay easily via multiple options. With promotion tools and feedback features, it enhances customer satisfaction, streamlines operations, and provides a modern dining experience for restaurants.
             </p>
             <div className="row">
               

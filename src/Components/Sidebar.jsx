@@ -92,20 +92,20 @@ const Sidebar = () => {
                     <li>
                       <i className="fa fa-map-marker" />
                       Address
-                      <span>123, Western Road, Melbourne Australia</span>
+                      <span>Muktangan English School & Jr College, office No. 6, 2 Floor manogat, Parvati, Pune, Maharashtra 411009</span>
                     </li>
                     <li>
                       <i className="fa fa-envelope" />
                       Email
                       <a href="mailto:example@example.com">
-                        [email&nbsp;protected]
+                      shekrulabs@gmail.com
                       </a>
                     </li>
                     <li>
                       <i className="fa fa-phone" />
                       Phone
-                      <a href="tel:123456124">+123(456)124</a>
-                      <a href="tel:123456123">+123(456)123</a>
+                      <a href="tel:123456124">+91 7776827177</a>
+                      
                     </li>
                   </ul>
                 </div>
@@ -113,24 +113,34 @@ const Sidebar = () => {
                   <h3 className="title">Connect With Us</h3>
                   <ul className="social-list">
                     <li>
-                      <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
-                        <i className="fa fa-facebook" />
-                      </a>
+                      <Link to="https://www.facebook.com/share/x5wymXr6w7W49vaQ/?mibextid=qi2Omg" target="_blank" rel="noreferrer">
+                      <i className="fa-brands fa-facebook-f" />
+                      </Link>
                     </li>
                     <li>
-                      <a href="https://www.twitter.com/" target="_blank" rel="noreferrer">
-                        <i className="fa fa-twitter" />
-                      </a>
+                      <Link to="https://x.com/MenuMitra" target="_blank" rel="noreferrer">
+                      <i className="fa-brands fa-x-twitter" />
+                      </Link>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
-                        <i className="fa fa-instagram" />
-                      </a>
+                      <Link to="https://www.linkedin.com/company/102429337/admin/dashboard/" target="_blank" rel="noreferrer">
+                      <i className="fa-brands fa-linkedin-in" />
+                      </Link>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-                        <i className="fa fa-linkedin" />
-                      </a>
+                      <Link to="https://www.youtube.com/@menumitra" target="_blank" rel="noreferrer">
+                      <i className="fa-brands fa-youtube"></i>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to="https://t.me/MenuMitra" target="_blank" rel="noreferrer">
+                      <i className="fa-brands fa-telegram"></i>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link to="https://www.instagram.com/menumitra/" target="_blank" rel="noreferrer">
+                      <i className="fa-brands fa-instagram"></i>
+                      </Link>
                     </li>
                   </ul>
                 </div>

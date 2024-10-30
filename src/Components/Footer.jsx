@@ -30,14 +30,12 @@ const Footer = () => {
              </Link>
             </div>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit
-              cupiditate ad quisquam ratione, unde exercitationem ducimus dolor
-              sit amet consectetur adipisicing.
+            MenuMitra is a digital menu app enabling contactless ordering, real-time menu updates, and inventory management. Guests can customize orders, track status, and pay easily via multiple options. With promotion tools and feedback features, it enhances customer satisfaction, streamlines operations, and provides a modern dining experience for restaurants.
             </p>
             <ul className="address">
               <li>
                 <i className="fa fa-map-marker" />
-                123, Western Road, Melbourne Australia
+                Muktangan English School & Jr College, office No. 6, 2 Floor manogat, Parvati, Pune, Maharashtra 411009
               </li>
               <li>
                 <i className="fa fa-envelope" />
@@ -46,13 +44,13 @@ const Footer = () => {
                     className="__cf_email__"
                     data-cfemail="0f676a6363604f7d66627a216c6062"
                   >
-                    [email&nbsp;protected]
+                    shekrulabs@gmail.com
                   </span>
                 </a>
               </li>
               <li>
                 <i className="fa fa-phone" />
-                <a href="tel:123456123">+123(456)123</a>
+                <a href="tel:123456123">+91 7776827177</a>
               </li>
             </ul>
           </div>

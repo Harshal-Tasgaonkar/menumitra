@@ -38,50 +38,35 @@ const ContactBody = () => {
                     className="__cf_email__"
                     data-cfemail="e189848d8d8ea193888c94cf828e8c"
                   >
-                    [email&nbsp;protected]
+                    shekrulabs@gmail.com
                   </span>
                 </a>
-                <a href="contact.html#">
-                  <span
-                    className="__cf_email__"
-                    data-cfemail="c2abaca4ad82b0abafb7eca1adaf"
-                  >
-                    [email&nbsp;protected]
-                  </span>
-                </a>
+                
               </div>
             </div>
             <div className="col-lg-6 col-sm-6 col-md-6">
               <div className="single-contact-info">
                 <i className="flaticon-customer-service" />
                 <h3>Call Us:</h3>
-                <a href="contact.html#">Tel. + (123) 1800-567-8990</a>
-                <a href="contact.html#">Tel. + (124) 1523-567-9874</a>
+                <a href="contact.html#">Tel. +91 7776827177</a>
+                
               </div>
             </div>
             <div className="col-lg-6 col-sm-6 col-md-6">
               <div className="single-contact-info">
                 <i className="flaticon-pin" />
-                <h3>Australia</h3>
+                <h3>Address</h3>
                 <a href="contact.html#">
-                  123, Western Road, Melbourne Australia
+                Muktangan English School & Jr College, office No. 6, 2 Floor manogat, Parvati, Pune, Maharashtra 411009
                 </a>
               </div>
             </div>
-            <div className="col-lg-6 col-sm-6 col-md-6">
-              <div className="single-contact-info">
-                <i className="flaticon-pin" />
-                <h3>London</h3>
-                <a href="contact.html#">
-                  82 Bernie Greens Apt. 210, Hendon Way, London, UK
-                </a>
-              </div>
-            </div>
+            
           </div>
         </div>
         <div className="col-lg-6">
           <div className="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2479.334611670228!2d-0.2276009840729691!3d51.58043051318147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487610dd1f8d8861%3A0x6c1f980129bc6367!2s210%20Hendon%20Way%2C%20Hendon%2C%20London%20NW4%203NE%2C%20UK!5e0!3m2!1sen!2sbd!4v1613824773264!5m2!1sen!2sbd" />
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60541.903684004654!2d73.853951!3d18.489593!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1982877f07b%3A0x1627e42ae3e8b0c2!2sShekru%20labs%20India%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1721196205198!5m2!1sen!2sin" />
           </div>
         </div>
       </div>
